@@ -1,0 +1,1 @@
+alert("Se ha cargado la pagina desde JS");
